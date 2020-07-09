@@ -1,6 +1,5 @@
 pkg install figlet
 gem install lolcat
-termux-setup-storage
 cd /sdcard
 rm -rf Android
 rm -rf Download
